@@ -122,3 +122,95 @@
    **Answer:** Around **23%** of the total banking sector assets.
 
 ---
+
+
+**State Bank of India (SBI):**
+
+---
+
+## **1. What is Banking?**
+Banking refers to the activities of financial institutions licensed to accept deposits, lend money, and offer various financial services. Banks are essential for the functioning of an economy as they facilitate saving, investment, and financial transactions.
+
+### **Core Functions of Banks:**
+- **Accepting Deposits:** Savings, current, and fixed deposits.
+- **Lending Money:** Loans to individuals, businesses, and industries.
+- **Facilitating Payments and Transfers:** Checks, NEFT, RTGS, UPI, and digital wallets.
+- **Financial Services:** Insurance, wealth management, and investment advisory.
+
+---
+
+## **2. Types of Banks in India**
+- **Commercial Banks:** Public Sector, Private Sector, and Foreign Banks.
+- **Cooperative Banks:** Focus on rural areas and small businesses.
+- **Regional Rural Banks (RRBs):** Provide credit to agriculture and rural industries.
+- **Development Banks:** Focus on industrial and infrastructure development (e.g., NABARD, SIDBI).
+
+---
+
+## **3. State Bank of India (SBI):**
+SBI is India's largest public sector bank, offering a wide range of banking and financial services.
+
+### **Key Facts About SBI:**
+1. **Founded:** 1st July 1955.
+2. **Headquarters:** Mumbai, Maharashtra.
+3. **Ownership:** Majority owned by the Government of India.
+4. **Tagline:** "The Banker to Every Indian."
+5. **Chairperson (as of 2025):** Check for the latest updates.
+6. **Global Presence:** Over 200 offices in 32 countries.
+7. **Market Position:** 
+   - Largest lender in India.
+   - Manages over 22,000 branches and 60,000 ATMs.
+
+---
+
+## **4. Services Offered by SBI:**
+### **Retail Banking:**
+   - Savings and current accounts.
+   - Fixed and recurring deposits.
+   - Personal loans, car loans, and home loans.
+
+### **Corporate Banking:**
+   - Business loans, working capital, and trade financing.
+   - Cash management and merchant banking services.
+
+### **Digital Banking:**
+   - **YONO (You Only Need One):** SBI’s integrated digital banking app.
+   - Net banking and mobile banking.
+   - UPI and other digital payment solutions.
+
+### **Other Services:**
+   - Insurance and investment products.
+   - Wealth management.
+   - Government schemes like Jan Dhan accounts, PMAY, etc.
+
+---
+
+## **5. Role of SBI in India’s Economy:**
+- Provides affordable credit to farmers, businesses, and underprivileged sectors.
+- Implements government policies, such as priority sector lending.
+- Acts as a banker for the government and handles large-scale financial transactions.
+
+---
+
+## **6. Key Banking Terms to Know:**
+- **CRR (Cash Reserve Ratio):** Percentage of deposits banks must keep with the RBI.
+- **SLR (Statutory Liquidity Ratio):** Percentage of net demand and time liabilities banks must keep in the form of cash, gold, or other securities.
+- **Repo Rate:** Rate at which RBI lends money to commercial banks.
+- **NPA (Non-Performing Asset):** Loans that are overdue for more than 90 days.
+- **Priority Sector Lending (PSL):** Mandatory lending to sectors like agriculture, MSMEs, and education.
+
+---
+
+## **7. Special SBI Schemes and Initiatives:**
+- **SBI Green Fund:** Supports sustainable development.
+- **SBI Youth for India:** A fellowship program to empower rural development.
+- **SBI Gram Seva:** CSR initiative for rural development.
+
+---
+
+## **8. Interesting Facts About SBI:**
+- It was formed by merging the Imperial Bank of India with other state-owned banks.
+- SBI introduced the concept of ATMs in India.
+- YONO app has revolutionized digital banking with features like investments, shopping, and more.
+
+---
